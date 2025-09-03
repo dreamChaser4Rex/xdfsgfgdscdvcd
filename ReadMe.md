@@ -46,4 +46,5 @@ Case studies • Motion graphics • Other design explorations
 ## 🌐 Connect With Me
 
 [![LinkedIn](###Link###)](#)
-[![Twitter](https://x.com/DreamChaser4Rex)]
+
+[Twitter](https://x.com/DreamChaser4Rex)
