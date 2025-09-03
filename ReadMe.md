@@ -25,7 +25,7 @@ Posters • Branding • Social Media Graphics • Banners
 Wireframes • Prototypes • User Flows • Mockups
 
 👉 *Sample Work:*
-![UI/UX Sample](https://via.placeholder.com/600x300.png?text=UI+UX+Design+Preview)
+![UI/UX Sample](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.four-paws.org%2Fcampaigns-topics%2Ftopics%2Ffarm-animals%2F10-amazing-facts-about-goats&psig=AOvVaw0Sdtpl_yyiGtuj_n0j0Oh9&ust=1756944185155000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKClpp6lu48DFQAAAAAdAAAAABAE)
 
 ---
 
