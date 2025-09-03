@@ -1,7 +1,7 @@
 # 🎨 My Design Portfolio
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YourUsername/YourRepo?color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/YourUsername/YourRepo?color=brightgreen)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/dreamChaser4Rex/Portfolio?color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/dreamChaser4Rex/Portfolio?color=brightgreen)
 ![Status](https://img.shields.io/badge/status-updating-success)
 
 Welcome to my **Portfolio Repository** 👋
