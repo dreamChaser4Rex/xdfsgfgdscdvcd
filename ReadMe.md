@@ -1,9 +1,5 @@
 # 🎨 My Design Portfolio
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/dreamChaser4Rex/Portfolio?color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/dreamChaser4Rex/Portfolio?color=brightgreen)
-![Status](https://img.shields.io/badge/status-updating-success)
-
 Welcome to my **Portfolio Repository** 👋
 Here I share my **Graphic Design, UI/UX projects, and creative explorations** all in one place.
 
@@ -16,7 +12,8 @@ Here I share my **Graphic Design, UI/UX projects, and creative explorations** al
 Posters • Branding • Social Media Graphics • Banners
 
 👉 *Sample Work:*
-![Graphic Design Sample](https://via.placeholder.com/600x300.png?text=Graphic+Design+Preview)
+![Graphic Design Sample](https://github.com/dreamChaser4Rex/Portfolio/blob/main/Graphics/Wealthwiseinvest.png)
+![Graphic Design Sample](https://github.com/dreamChaser4Rex/Portfolio/blob/main/Graphics/Senator%20Bread%20Vacancy%20Flier%20(A6).png)
 
 ---
 
@@ -25,7 +22,7 @@ Posters • Branding • Social Media Graphics • Banners
 Wireframes • Prototypes • User Flows • Mockups
 
 👉 *Sample Work:*
-![UI/UX Sample](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.four-paws.org%2Fcampaigns-topics%2Ftopics%2Ffarm-animals%2F10-amazing-facts-about-goats&psig=AOvVaw0Sdtpl_yyiGtuj_n0j0Oh9&ust=1756944185155000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKClpp6lu48DFQAAAAAdAAAAABAE)
+![UI/UX Sample](https://github.com/dreamChaser4Rex/Portfolio/blob/main/Graphics/Wealthwiseinvest.png)
 
 ---
 
