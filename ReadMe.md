@@ -22,7 +22,7 @@ Posters • Branding • Social Media Graphics • Banners
 Wireframes • Prototypes • User Flows • Mockups
 
 👉 *Sample Work:*
-![UI/UX Sample](https://github.com/dreamChaser4Rex/Portfolio/blob/main/Graphics/Wealthwiseinvest.png)
+![UI/UX Sample]()
 
 ---
 
