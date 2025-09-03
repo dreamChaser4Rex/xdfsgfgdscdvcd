@@ -37,7 +37,7 @@ Case studies • Motion graphics • Other design explorations
 
 ## 🛠 Tools & Skills
 
-* **Design Tools**: Figma · Photoshop · Illustrator · After Effects
+* **Design Tools**: Figma · Photoshop · Illustrator · Corel Draw
 * **UI/UX**: Prototyping · Wireframing · User Research · Interaction Design
 * **Creative Focus**: Clean Layouts · Visual Hierarchy · User-Centered Design
 
